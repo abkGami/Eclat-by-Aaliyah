@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
               natural beauty and helping you feel confident and radiant for any
               special event.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               <a
                 href="#"
                 className="text-gray-400 hover:text-pink-400 transition duration-300"
@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
                   <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z" />
                 </svg>
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>
@@ -69,14 +69,14 @@ const Footer: React.FC = () => {
                   Home
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   href="#about"
                   className="text-gray-400 hover:text-pink-300 transition duration-300"
                 >
                   About Us
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   href="#portfolio"
@@ -93,18 +93,18 @@ const Footer: React.FC = () => {
                   Contact
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   href="#"
                   className="text-gray-400 hover:text-pink-300 transition duration-300"
                 >
                   Privacy Policy
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
 
-          <div>
+          {/* <div>
             <h4 className="text-lg font-medium mb-4">Services</h4>
             <ul className="space-y-2">
               <li>
@@ -148,15 +148,14 @@ const Footer: React.FC = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} Glamour Glow Makeup Studio. All
-            rights reserved.
+            &copy; {new Date().getFullYear()} by abk.
           </p>
-          <div className="mt-4 md:mt-0">
+          {/* <div className="mt-4 md:mt-0">
             <ul className="flex space-x-6 text-sm">
               <li>
                 <a
@@ -183,7 +182,7 @@ const Footer: React.FC = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>
