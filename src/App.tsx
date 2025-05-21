@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 function App() {
   useEffect(() => {
     // Update page title
-    document.title = "Glamour Glow | Professional Makeup Artistry";
+    document.title = "Eclat By Aaliyah | Professional Makeup Artist";
 
     // Add Google Fonts
     const link = document.createElement("link");
