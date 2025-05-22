@@ -39,7 +39,7 @@ const Contact: React.FC = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {/* <div>
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form onSubmit={handleSubmit} className="space-y-6"> yeah
               <div>
                 <label
                   htmlFor="name"
