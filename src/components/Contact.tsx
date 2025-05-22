@@ -17,7 +17,7 @@ const Contact: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // In a real app, you would handle form submission to backend here
+    // In a real app, you would handle form submission to backend here  who asked
     console.log("Form submitted:", formData);
     alert("Thank you for your message! We will get back to you soon.");
     setFormData({ name: "", email: "", phone: "", message: "" });
