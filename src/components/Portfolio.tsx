@@ -3,20 +3,20 @@ import React, { useState } from "react";
 const portfolioItems = [
   {
     id: 1,
-    category: "bridal",
-    title: "Elegant Bridal",
+    category: "natural",
+    title: "Natural Glow",
     image: "/assets/one.jpg",
   },
   {
     id: 2,
-    category: "evening",
-    title: "Glamorous Evening",
+    category: "bridal",
+    title: "Elegant Bridal",
     image: "/assets/four.jpg",
   },
   {
     id: 3,
-    category: "natural",
-    title: "Natural Glow",
+    category: "evening",
+    title: "Glamorous evening",
     image: "/assets/three.jpg",
   },
   {
@@ -33,10 +33,9 @@ const portfolioItems = [
   },
   {
     id: 6,
-    category: "evening",
-    title: "Red Carpet Ready",
-    image:
-      "https://images.pexels.com/photos/1878522/pexels-photo-1878522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    category: "creative",
+    title: "Artistic Expression",
+    image: "/assets/2.gif",
   },
 ];
 
