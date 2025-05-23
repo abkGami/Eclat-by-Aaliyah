@@ -45,7 +45,9 @@ const Hero: React.FC = () => {
             </button>
             <div className="flex space-x-4  mt-4">
               <a
-                href="#"
+                href="https://www.instagram.com/makeup_by_eclatbyaaliyah?igsh=MTFwZHF2YzZ3c3JuOA%3D%3D&utm_source=qr"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-pink-100 p-3 rounded-full text-pink-500 hover:bg-pink-500 hover:text-white transition duration-300"
               >
                 <svg
@@ -58,7 +60,9 @@ const Hero: React.FC = () => {
                 </svg>
               </a>
               <a
-                href="#"
+                href="https://www.tiktok.com/@makeup_by_eclatbyaaliyah?_t=ZM-8wSoGSuDXTL&_r=1"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-pink-100 p-3 rounded-full text-pink-500 hover:bg-pink-500 hover:text-white transition duration-300"
               >
                 <svg
