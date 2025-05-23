@@ -12,31 +12,36 @@ const portfolioItems = [
     id: 2,
     category: "bridal",
     title: "Elegant Bridal",
-    image: "/assets/four.jpg",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/03e9d6c644927f73fec529903492a0eebd9682d3/assets/four.jpg?raw=true",
   },
   {
     id: 3,
     category: "evening",
     title: "Glamorous evening",
-    image: "/assets/three.jpg",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/03e9d6c644927f73fec529903492a0eebd9682d3/assets/three.jpg?raw=true",
   },
   {
     id: 4,
     category: "creative",
     title: "Artistic Expression",
-    image: "/assets/1.gif",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/03e9d6c644927f73fec529903492a0eebd9682d3/assets/1.gif?raw=true",
   },
   {
     id: 5,
     category: "bridal",
     title: "Classic Bridal",
-    image: "/assets/five.jpg",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/03e9d6c644927f73fec529903492a0eebd9682d3/assets/five.jpg?raw=true",
   },
   {
     id: 6,
     category: "creative",
     title: "Artistic Expression",
-    image: "/assets/2.gif",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/03e9d6c644927f73fec529903492a0eebd9682d3/assets/2.gif?raw=true",
   },
 ];
 
