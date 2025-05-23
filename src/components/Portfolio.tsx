@@ -5,7 +5,8 @@ const portfolioItems = [
     id: 1,
     category: "natural",
     title: "Natural Glow",
-    image: "/assets/one.jpg",
+    image:
+      "https://github.com/abkGami/Eclat-by-Aaliyah/blob/315d2c56de6b58df1dbef4abbda4994bdfeeafb7/assets/one.jpg",
   },
   {
     id: 2,
