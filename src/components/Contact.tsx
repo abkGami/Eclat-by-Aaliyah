@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
     <section id="contact" className="py-20 bg-white">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold text-gray-800 mb-4">
+          <h2 className="text-3xl md:text-4xl font-quicksand font-bold text-gray-800 mb-4">
             Contact Us
           </h2>
           <div className="w-20 h-1 bg-pink-400 mx-auto mb-8"></div>
@@ -126,7 +126,7 @@ const Contact: React.FC = () => {
 
           <div className="flex flex-col justify-between">
             <div>
-              <h3 className="text-2xl font-serif font-bold text-gray-800 mb-6">
+              <h3 className="text-2xl font-quicksand font-bold text-gray-800 mb-6">
                 Get In Touch
               </h3>
               <p className="text-gray-600 mb-8 leading-relaxed">
@@ -259,7 +259,7 @@ const Contact: React.FC = () => {
             </div>
 
             {/* <div className="mt-12">
-              <h3 className="text-xl font-serif font-bold text-gray-800 mb-4">
+              <h3 className="text-xl font-quicksand font-bold text-gray-800 mb-4">
                 Follow Us
               </h3>
               <div className="flex space-x-4">

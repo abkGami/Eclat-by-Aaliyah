@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center">
           <h1
-            className={`font-serif text-2xl font-bold ${
+            className={`font-quicksand text-2xl font-bold ${
               isScrolled ? "text-pink-500" : "text-white"
             }`}
           >
