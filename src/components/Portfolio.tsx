@@ -57,7 +57,7 @@ const Portfolio: React.FC = () => {
     <section id="portfolio" className="py-20 bg-pink-50">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold text-gray-800 mb-4">
+          <h2 className="text-3xl md:text-4xl font-quicksand font-bold text-gray-800 mb-4">
             Our Work
           </h2>
           <div className="w-20 h-1 bg-pink-400 mx-auto mb-8"></div>
