@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
 
       <div className="container mx-auto px-6 relative z-10 ">
         <div className="max-w-xl mx-auto text-center md:mx-0 md:text-left">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white leading-tight mb-6 animate-fade-in-up">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-quicksand font-bold text-white leading-tight mb-6 animate-fade-in-up">
             Reveal Your Natural Beauty
           </h1>
           <p className="text-lg md:text-xl text-white/90 mb-8 animate-fade-in-up animation-delay-200">
