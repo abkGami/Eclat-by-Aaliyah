@@ -24,7 +24,7 @@ function App() {
   }, []);
 
   return (
-    <div className="font-sans">
+    <div className="font-quicksand">
       <Navbar />
       <Hero />
       {/* <About /> */}
