@@ -153,7 +153,9 @@ const Contact: React.FC = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-medium text-gray-800">Instagram</h4>
+                    <h4 className="font-quicksand font-medium text-gray-800">
+                      Instagram
+                    </h4>
                     <p className="text-gray-600">makeup_by_eclatbyaaliyah</p>
                   </div>
                 </a>
@@ -176,7 +178,9 @@ const Contact: React.FC = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-medium text-gray-800">TikTok</h4>
+                    <h4 className="font-quicksand font-medium text-gray-800">
+                      TikTok
+                    </h4>
                     <p className="text-gray-600">makeup_by_eclatbyaaliyah</p>
                   </div>
                 </a>
@@ -199,7 +203,9 @@ const Contact: React.FC = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-medium text-gray-800">Email</h4>
+                    <h4 className="font-quicksand font-medium text-gray-800">
+                      Email
+                    </h4>
                     <p className="text-gray-600">aayoakinola@gmail.com</p>
                   </div>
                 </div>
@@ -222,7 +228,9 @@ const Contact: React.FC = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-medium text-gray-800">Phone</h4>
+                    <h4 className="font-quicksand font-medium text-gray-800">
+                      Phone
+                    </h4>
                     <p className="text-gray-600">(+234) 811 787 7159</p>
                   </div>
                 </div>
@@ -251,7 +259,9 @@ const Contact: React.FC = () => {
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-medium text-gray-800">Address</h4>
+                    <h4 className="font-quicksand font-medium text-gray-800">
+                      Address
+                    </h4>
                     <p className="text-gray-600">NG</p>
                   </div>
                 </div>

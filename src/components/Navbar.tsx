@@ -81,7 +81,7 @@ const Navbar: React.FC = () => {
       {isOpen && (
         <div className="md:hidden absolute top-full left-0 right-0 bg-white shadow-md py-4 px-4 transition-all duration-300">
           <div className="flex flex-col space-y-4">
-            {["home", "about", "portfolio", "contact"].map((item) => (
+            {["home", "portfolio", "contact"].map((item) => (
               <button
                 key={item}
                 onClick={() => scrollToSection(item)}
@@ -89,8 +89,6 @@ const Navbar: React.FC = () => {
               >
                 {item === "home"
                   ? "Home"
-                  : item === "about"
-                  ? "About Us"
                   : item === "portfolio"
                   ? "Our Work"
                   : "Contact"}
